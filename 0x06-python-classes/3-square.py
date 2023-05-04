@@ -2,6 +2,7 @@
 
 """ defines a square """
 
+
 class Square:
     """ square with private instance attribute size """
 
