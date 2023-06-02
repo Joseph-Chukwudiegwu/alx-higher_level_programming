@@ -1,4 +1,6 @@
 # `Alx-higher_level_programming`
+![image](https://github.com/Joseph-Chukwudiegwu/alx-higher_level_programming/assets/117829502/3786426e-1a44-4af4-9f87-ba702331aa0b)
+
 - This repository houses a comprehensive collection of projects completed using the Python and Javascript programming languages
 - Overall, this repository offers a valuable resource for anyone looking to learn or enhance their skills in Python and JavaScript programming.
 
